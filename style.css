@@ -1,0 +1,11 @@
+html {
+    background-color:cornflowerblue;
+}
+
+h1 {
+    font-family: Arial;
+    margin: 50px auto;
+    padding: 20px;
+    font-weight: 900;
+    position: relative;
+}
